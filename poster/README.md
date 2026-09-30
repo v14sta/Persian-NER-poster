@@ -15,8 +15,6 @@ How do the three models differ in subword fragmentation and entity-boundary accu
 |---|---|
 | `poster.ipynb` | Full pipeline: data preparation, training, evaluation, fragmentation analysis |
 | `results/` | CSV outputs from the run (add your exported files here) |
-| `poster.tex` | Overleaf/LaTeX source of the poster |
-| `H1_panel.png`, `H2_panel.png` | Poster figures |
 
 ## Setup
 
